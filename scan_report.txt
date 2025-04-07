@@ -1,0 +1,19 @@
+Scan Report for simplilearn.com
+Generated: 2025-04-07 21:13:14.536927
+
+=== Subdomains Found ===
+https://www.simplilearn.com
+https://blog.simplilearn.com
+https://secure.simplilearn.com
+
+=== Open Ports ===
+Host: 13.225.103.107
+  [+] Open Port: 80
+  [+] Open Port: 443
+
+=== XSS Vulnerabilities ===
+
+=== Directories Found ===
+http://simplilearn.com/test [Status: 200]
+
+--- END OF REPORT ---
