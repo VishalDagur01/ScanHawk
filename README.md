@@ -14,3 +14,9 @@
 git clone https://github.com/VishalDagur01/ScanHawk.git
 cd ScanHawk
 pip install -r requirements.txt
+
+🚀 How to Run
+
+python scanhawk.py -u https://example.com --xss --dir --subdomain --port
+or
+python scanhawk.py url(example.com)
